@@ -1,1 +1,1 @@
-# Pyramid.rb
+# Pyramide.rb
